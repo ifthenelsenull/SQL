@@ -1,0 +1,18 @@
+Hour of Code
+________________________________________
+Resources:
+Code.org https://code.org/ Hour of Code Tutorial using JavaScript and blocks.  Fantastic place to start learning computer science.  
+Codecombat.com  http://codecombat.com/ uses JavaScript, Python, Clojure, Lua, Io, or CoffeeScript to work through a fantasy style challenge
+Stackoverflow http://stackoverflow.com/ If you have a question it can be answered here.
+Scratch https://scratch.mit.edu/  An introduction to programming using blocks.  Great introduction for all ages.
+Khan Academy https://www.khanacademy.org/ Fantastic education site covering everything from code, math, science and more.
+Codeacademy https://www.codecademy.com/learn  Good beginner site for coding.  Offers Git, JavaScript, python, ruby, angularJS, SQL, commandline
+Most companies offer education discounts for educators and students.  Microsoft is no exception.
+Microsoft Education http://www.microsoft.com/en-us/education/default.aspx
+Microsoft also offers some coding education http://www.microsoft.com/en-us/education/students/code/default.aspx and the Microsoft Virtual Academy
+Github Education Pack https://education.github.com/pack  Github is a must have for professional developers but this student pack is pretty awesome.
+________________________________________
+How to make a peanut butter and jelly sandwich demonstration with code.
+________________________________________
+Write down any questions you have here:
+
